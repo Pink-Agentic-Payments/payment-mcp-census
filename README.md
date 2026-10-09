@@ -11,16 +11,16 @@ A census of 49 payment-adjacent MCP (Model Context Protocol) servers: which ones
 - Of the 37 that move money, **5 of 37 (14%)** document a per-payment/per-transaction limit.
 - Of the 37 that move money, **3 of 37 (8%)** document a payee/merchant allowlist or block mechanism.
 - Of the 37 that move money, **6 of 37 (16%)** document a human-approval step before or to unblock a payment.
-- Only **1 of 37 (3%)** documents a spend-velocity/rate limit distinct from a dollar budget — the least-covered control in the census.
+- Only **1 of 37 (3%)** documents a spend-velocity/rate limit distinct from a dollar budget: the least-covered control in the census.
 - **8 of 37 (22%)** money-moving servers document a dedicated sandbox/test mode.
-- Among **24 official-vendor rows**, 17 of 24 (71%) move money; among **25 community/unofficial rows**, 20 of 25 (80%) move money — community servers skew slightly more toward real money movement than official vendor servers.
+- Among **24 official-vendor rows**, 17 of 24 (71%) move money; among **25 community/unofficial rows**, 20 of 25 (80%) move money. Community servers skew slightly more toward real money movement than official vendor servers.
 - **5 of 49 (10%)** listed servers point to a GitHub repo that returned HTTP 404 on 2026-10-08, even though registries and mirrors still list them.
 
 See [FINDINGS.md](./FINDINGS.md) for the full numbered list (11 findings) with evidence quotes and source URLs for every count above.
 
 ## Servers that can move money and document at least one spending control
 
-Generated directly from `census.csv` by [generate_table.py](./generate_table.py) — run `python3 generate_table.py` to reproduce.
+Generated directly from `census.csv` by [generate_table.py](./generate_table.py). Run `python3 generate_table.py` to reproduce.
 
 | Server | Maintainer | Budget | Per-payment limit | Payee allowlist | Human approval | Rate limit | Sandbox |
 |---|---|---|---|---|---|---|---|
@@ -36,20 +36,20 @@ Generated directly from `census.csv` by [generate_table.py](./generate_table.py)
 | x402search-mcp | community | Not documented | Yes | Not documented | Not documented | Not documented | Not documented |
 | Pink Agentic AI Payments | official | Yes | Yes | Yes | Yes | Not documented | Yes |
 
-"Not documented" means the control was not mentioned in the sources we could load — it does not mean the control doesn't exist. See `METHODOLOGY.md` for the distinction between "no" and "not documented" used in `census.csv`.
+"Not documented" means the control was not mentioned in the sources we could load; it does not mean the control doesn't exist. See `METHODOLOGY.md` for the distinction between "no" and "not documented" used in `census.csv`.
 
 ## Where Pink lands
 
-- Pink **can move money** (sandbox/test money only — explicitly disclosed, see the `notes` column of its row and [METHODOLOGY.md](./METHODOLOGY.md)).
+- Pink **can move money** (sandbox/test money only, explicitly disclosed; see the `notes` column of its row and [METHODOLOGY.md](./METHODOLOGY.md)).
 - Pink is one of only **4 of 37** money-moving servers with a documented budget, one of **5 of 37** with a per-payment limit, one of **3 of 37** with a payee allowlist, one of **6 of 37** with human approval, and one of **8 of 37** with a sandbox mode.
 - Pink is the only row that is a "yes" on all four governance controls simultaneously (budget, per-payment limit, payee allowlist, human approval).
-- Pink does **not** document a rate-limit control distinct from its per-payment/budget caps (same gap as 36 of the other 37 movers) — this is disclosed, not omitted.
+- Pink does **not** document a rate-limit control distinct from its per-payment/budget caps (same gap as 36 of the other 37 movers); this is disclosed, not omitted.
 
 Pink Agentic AI Payments is an MCP server that checks per-agent budgets, payee rules and human-approval holds before a payment executes; try it in the public sandbox with test money: https://agentic-sandbox.pinkwallet.com
 
 ## Biggest gap in the market
 
-No server in the census — including Pink — documents a dollar-denominated spend-velocity rate limit as a distinct, separately-configurable control from a budget, except Marqeta's "velocity limits". This is the single biggest documentation gap across the entire payment-MCP landscape as of this snapshot, and a credible angle for follow-on coverage: why doesn't anyone rate-limit AI agent spending by time, not just by amount?
+No server in the census, including Pink, documents a dollar-denominated spend-velocity rate limit as a distinct, separately-configurable control from a budget, except Marqeta's "velocity limits". This is the single biggest documentation gap across the entire payment-MCP landscape as of this snapshot: why doesn't anyone rate-limit AI agent spending by time, not just by amount?
 
 ## Official MCP Registry cross-check
 
