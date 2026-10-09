@@ -1,0 +1,41 @@
+name: Correct a row
+description: Report an incorrect or outdated cell in census.csv
+title: "Correction: "
+labels: ["correction"]
+body:
+  - type: input
+    id: server-name
+    attributes:
+      label: Server name
+      description: The exact value in the `name` column of census.csv
+    validations:
+      required: true
+  - type: input
+    id: column
+    attributes:
+      label: Which column is wrong
+      description: e.g. moves_money, budget_control, per_payment_limit, sandbox_mode
+    validations:
+      required: true
+  - type: input
+    id: correct-value
+    attributes:
+      label: Correct value
+    validations:
+      required: true
+  - type: input
+    id: evidence-url
+    attributes:
+      label: Public evidence URL
+      description: A public URL (docs, README, changelog) that supports the correct value
+    validations:
+      required: true
+  - type: dropdown
+    id: maintainer
+    attributes:
+      label: Are you the maintainer of this server?
+      options:
+        - "y"
+        - "n"
+    validations:
+      required: true

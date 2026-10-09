@@ -1,0 +1,342 @@
+name,namespace,description,repository_url
+ai.agentrapay/agentra,ai.agentrapay,Identity oracle and trust layer for autonomous AI agents. Bidirectional KYA and trust scoring.,
+ai.inflowpay.app/inflow,ai.inflowpay.app,"MCP Server for agents to onboard, pay, and provision services autonomously with InFlow",https://github.com/inflowpayai/inflow-mcp
+ai.paylyte/paylyte-core,ai.paylyte,Agent Trust Score earned through Proof of Outcome. Browse and buy as paylyte-core.,
+ai.payments.managed/payments-ai-mcp,ai.payments.managed,"Launch products and branded checkouts on Payments AI, the Merchant of Record for AI-built apps.",
+ai.rapay/mcp-server,ai.rapay,Send fiat payments via MCP with two-step confirmation and Stripe Connect.,https://github.com/Ra-Pay-AI/rapay
+ai.sourcemill/au-hot-water-payback,ai.sourcemill,"Heat pump vs gas hot water (AU): rebate stack, net outlay and payback verdict by postcode.",
+ai.subpay/document-reader,ai.subpay,Reads AIA G702/G703 pay applications and change orders from PDF to JSON. $0.04/page via x402.,
+ai.subpay/tool-finder,ai.subpay,"Free search over ~50k agent tools: paid x402 APIs and MCP servers. Price, networks, how to call.",
+app.netlify.micropay-test-suite/micropay-test-suite,app.netlify.micropay-test-suite,Verify your agent's x402 payment flow for free on Base Sepolia testnet before real money moves.,
+app.railway.up.payments-intel-production/payments-intel,app.railway.up.payments-intel-production,"Stablecoin on/off-ramps, corridors and payment providers by country, with cited data. x402/MPP paid.",
+app.wishpool/algeria-payments-mcp,app.wishpool,Algeria payments for AI agents — EDAHABIA / CIB via Chargily Pay. Never holds funds.,https://github.com/junter1989k-ai/algeria-payments-mcp
+app.wishpool/argentina-payments-mcp,app.wishpool,Argentina payments for AI agents — Mercado Pago wallet / cuotas via Mercado Pago. Never holds funds.,https://github.com/junter1989k-ai/argentina-payments-mcp
+app.wishpool/australia-payments-mcp,app.wishpool,Australia payments for AI agents — cards / Apple Pay via Stripe. Never holds funds.,https://github.com/junter1989k-ai/australia-payments-mcp
+app.wishpool/austria-payments-mcp,app.wishpool,Austria payments for AI agents — EPS via Stripe. Never holds funds.,https://github.com/junter1989k-ai/austria-payments-mcp
+app.wishpool/bahrain-payments-mcp,app.wishpool,Bahrain payments for AI agents — Benefit via Tap Payments. Never holds funds.,https://github.com/junter1989k-ai/bahrain-payments-mcp
+app.wishpool/bangladesh-payments-mcp,app.wishpool,Bangladesh payments for AI agents — bKash / Nagad via SSLCommerz. Never holds funds.,https://github.com/junter1989k-ai/bangladesh-payments-mcp
+app.wishpool/belgium-payments-mcp,app.wishpool,Belgium payments for AI agents — Bancontact via Mollie. Never holds funds.,https://github.com/junter1989k-ai/belgium-payments-mcp
+app.wishpool/brazil-payments-mcp,app.wishpool,"Brazil payments for AI agents — Pix, cards, boleto via Mercado Pago. Never holds funds.",https://github.com/junter1989k-ai/brazil-payments-mcp
+app.wishpool/bulgaria-payments-mcp,app.wishpool,Bulgaria payments for AI agents — cards / Apple Pay via Stripe. Never holds funds.,https://github.com/junter1989k-ai/bulgaria-payments-mcp
+app.wishpool/canada-payments-mcp,app.wishpool,Canada payments for AI agents — cards / Apple Pay via Stripe. Never holds funds.,https://github.com/junter1989k-ai/canada-payments-mcp
+app.wishpool/chile-payments-mcp,app.wishpool,Chile payments for AI agents — Mercado Pago wallet via Mercado Pago. Never holds funds.,https://github.com/junter1989k-ai/chile-payments-mcp
+app.wishpool/colombia-payments-mcp,app.wishpool,Colombia payments for AI agents — PSE / Nequi via Mercado Pago. Never holds funds.,https://github.com/junter1989k-ai/colombia-payments-mcp
+app.wishpool/costa-rica-payments-mcp,app.wishpool,Costa Rica payments for AI agents — SINPE Movil via ONVO Pay. Never holds funds.,https://github.com/junter1989k-ai/costa-rica-payments-mcp
+app.wishpool/croatia-payments-mcp,app.wishpool,Croatia payments for AI agents — cards / Apple Pay via Stripe. Never holds funds.,https://github.com/junter1989k-ai/croatia-payments-mcp
+app.wishpool/cyprus-payments-mcp,app.wishpool,Cyprus payments for AI agents — cards / Apple Pay via Stripe. Never holds funds.,https://github.com/junter1989k-ai/cyprus-payments-mcp
+app.wishpool/czechia-payments-mcp,app.wishpool,Czechia payments for AI agents — cards / Apple Pay via Stripe. Never holds funds.,https://github.com/junter1989k-ai/czechia-payments-mcp
+app.wishpool/denmark-payments-mcp,app.wishpool,Denmark payments for AI agents — MobilePay via Stripe. Never holds funds.,https://github.com/junter1989k-ai/denmark-payments-mcp
+app.wishpool/egypt-payments-mcp,app.wishpool,Egypt payments for AI agents — cards / mobile wallets via Paymob. Never holds funds.,https://github.com/junter1989k-ai/egypt-payments-mcp
+app.wishpool/estonia-payments-mcp,app.wishpool,Estonia payments for AI agents — cards / Apple Pay via Stripe. Never holds funds.,https://github.com/junter1989k-ai/estonia-payments-mcp
+app.wishpool/finland-payments-mcp,app.wishpool,Finland payments for AI agents — cards / Klarna via Stripe. Never holds funds.,https://github.com/junter1989k-ai/finland-payments-mcp
+app.wishpool/france-payments-mcp,app.wishpool,France payments for AI agents — Cartes Bancaires via Stripe. Never holds funds.,https://github.com/junter1989k-ai/france-payments-mcp
+app.wishpool/georgia-payments-mcp,app.wishpool,Georgia payments for AI agents — TBC checkout via TBC Bank. Never holds funds.,https://github.com/junter1989k-ai/georgia-payments-mcp
+app.wishpool/germany-payments-mcp,app.wishpool,Germany payments for AI agents — Klarna / SEPA via Mollie. Never holds funds.,https://github.com/junter1989k-ai/germany-payments-mcp
+app.wishpool/ghana-payments-mcp,app.wishpool,Ghana payments for AI agents — MTN MoMo via Paystack. Never holds funds.,https://github.com/junter1989k-ai/ghana-payments-mcp
+app.wishpool/greece-payments-mcp,app.wishpool,Greece payments for AI agents — cards / Apple Pay via Stripe. Never holds funds.,https://github.com/junter1989k-ai/greece-payments-mcp
+app.wishpool/guatemala-payments-mcp,app.wishpool,Guatemala payments for AI agents — cards (Recurrente) via Recurrente. Never holds funds.,https://github.com/junter1989k-ai/guatemala-payments-mcp
+app.wishpool/hong-kong-payments-mcp,app.wishpool,Hong Kong payments for AI agents — Alipay / WeChat Pay via Stripe. Never holds funds.,https://github.com/junter1989k-ai/hong-kong-payments-mcp
+app.wishpool/hungary-payments-mcp,app.wishpool,Hungary payments for AI agents — cards / Apple Pay via Stripe. Never holds funds.,https://github.com/junter1989k-ai/hungary-payments-mcp
+app.wishpool/india-payments-mcp,app.wishpool,"India payments for AI agents — UPI, cards, wallets via Razorpay Payment Links. Never holds funds.",https://github.com/junter1989k-ai/india-payments-mcp
+app.wishpool/indonesia-payments-mcp,app.wishpool,"Indonesia payments for AI agents — GoPay, QRIS, Alfamart, bank VA via Midtrans. Never holds funds.",https://github.com/junter1989k-ai/indonesia-payments-mcp
+app.wishpool/ireland-payments-mcp,app.wishpool,Ireland payments for AI agents — cards / Apple Pay via Stripe. Never holds funds.,https://github.com/junter1989k-ai/ireland-payments-mcp
+app.wishpool/israel-payments-mcp,app.wishpool,Israel payments for AI agents — cards / Apple Pay via Stripe. Never holds funds.,https://github.com/junter1989k-ai/israel-payments-mcp
+app.wishpool/italy-payments-mcp,app.wishpool,Italy payments for AI agents — cards / Apple Pay via Stripe. Never holds funds.,https://github.com/junter1989k-ai/italy-payments-mcp
+app.wishpool/ivory-coast-payments-mcp,app.wishpool,Ivory Coast payments for AI agents — Orange Money / MTN MoMo via Paystack. Never holds funds.,https://github.com/junter1989k-ai/ivory-coast-payments-mcp
+app.wishpool/japan-payments-mcp,app.wishpool,"Japan payments for AI agents — konbini コンビニ, card, PayPay via KOMOJU. Stateless, never holds funds.",https://github.com/junter1989k-ai/japan-payments-mcp
+app.wishpool/jordan-payments-mcp,app.wishpool,Jordan payments for AI agents — cards / Apple Pay via Tap Payments. Never holds funds.,https://github.com/junter1989k-ai/jordan-payments-mcp
+app.wishpool/kazakhstan-payments-mcp,app.wishpool,Kazakhstan payments for AI agents — cards (Freedom Pay) via Freedom Pay. Never holds funds.,https://github.com/junter1989k-ai/kazakhstan-payments-mcp
+app.wishpool/kenya-payments-mcp,app.wishpool,Kenya payments for AI agents — M-Pesa via Flutterwave. Never holds funds.,https://github.com/junter1989k-ai/kenya-payments-mcp
+app.wishpool/korea-payments-mcp,app.wishpool,"Korea payments for AI agents — card, KakaoPay/NaverPay, 가상계좌 via Toss Payments. Never holds funds.",https://github.com/junter1989k-ai/korea-payments-mcp
+app.wishpool/kuwait-payments-mcp,app.wishpool,Kuwait payments for AI agents — KNET via Tap Payments. Never holds funds.,https://github.com/junter1989k-ai/kuwait-payments-mcp
+app.wishpool/latvia-payments-mcp,app.wishpool,Latvia payments for AI agents — cards / Apple Pay via Stripe. Never holds funds.,https://github.com/junter1989k-ai/latvia-payments-mcp
+app.wishpool/lithuania-payments-mcp,app.wishpool,Lithuania payments for AI agents — cards / Apple Pay via Stripe. Never holds funds.,https://github.com/junter1989k-ai/lithuania-payments-mcp
+app.wishpool/luxembourg-payments-mcp,app.wishpool,Luxembourg payments for AI agents — cards / Apple Pay via Stripe. Never holds funds.,https://github.com/junter1989k-ai/luxembourg-payments-mcp
+app.wishpool/malaysia-payments-mcp,app.wishpool,"Malaysia payments for AI agents — FPX banking, DuitNow QR, cards via Billplz. Never holds funds.",https://github.com/junter1989k-ai/malaysia-payments-mcp
+app.wishpool/malta-payments-mcp,app.wishpool,Malta payments for AI agents — cards / Apple Pay via Stripe. Never holds funds.,https://github.com/junter1989k-ai/malta-payments-mcp
+app.wishpool/mexico-payments-mcp,app.wishpool,Mexico payments for AI agents — OXXO cash via Mercado Pago. Never holds funds.,https://github.com/junter1989k-ai/mexico-payments-mcp
+app.wishpool/nepal-payments-mcp,app.wishpool,Nepal payments for AI agents — Khalti wallet via Khalti. Never holds funds.,https://github.com/junter1989k-ai/nepal-payments-mcp
+app.wishpool/netherlands-payments-mcp,app.wishpool,Netherlands payments for AI agents — iDEAL via Mollie. Never holds funds.,https://github.com/junter1989k-ai/netherlands-payments-mcp
+app.wishpool/new-zealand-payments-mcp,app.wishpool,New Zealand payments for AI agents — cards / Apple Pay via Stripe. Never holds funds.,https://github.com/junter1989k-ai/new-zealand-payments-mcp
+app.wishpool/nigeria-payments-mcp,app.wishpool,Nigeria payments for AI agents — bank transfer / USSD via Paystack. Never holds funds.,https://github.com/junter1989k-ai/nigeria-payments-mcp
+app.wishpool/norway-payments-mcp,app.wishpool,Norway payments for AI agents — cards / Klarna via Stripe. Never holds funds.,https://github.com/junter1989k-ai/norway-payments-mcp
+app.wishpool/oman-payments-mcp,app.wishpool,Oman payments for AI agents — cards / Apple Pay via Tap Payments. Never holds funds.,https://github.com/junter1989k-ai/oman-payments-mcp
+app.wishpool/pakistan-payments-mcp,app.wishpool,Pakistan payments for AI agents — Safepay checkout via Safepay. Never holds funds.,https://github.com/junter1989k-ai/pakistan-payments-mcp
+app.wishpool/peru-payments-mcp,app.wishpool,Peru payments for AI agents — Yape / PagoEfectivo via Mercado Pago. Never holds funds.,https://github.com/junter1989k-ai/peru-payments-mcp
+app.wishpool/philippines-payments-mcp,app.wishpool,"Philippines payments for AI agents — GCash, Maya, cards via PayMongo. Never holds funds.",https://github.com/junter1989k-ai/philippines-payments-mcp
+app.wishpool/poland-payments-mcp,app.wishpool,Poland payments for AI agents — BLIK via Stripe. Never holds funds.,https://github.com/junter1989k-ai/poland-payments-mcp
+app.wishpool/portugal-payments-mcp,app.wishpool,Portugal payments for AI agents — Multibanco via Stripe. Never holds funds.,https://github.com/junter1989k-ai/portugal-payments-mcp
+app.wishpool/qatar-payments-mcp,app.wishpool,Qatar payments for AI agents — cards / Apple Pay via Tap Payments. Never holds funds.,https://github.com/junter1989k-ai/qatar-payments-mcp
+app.wishpool/romania-payments-mcp,app.wishpool,Romania payments for AI agents — cards / Apple Pay via Stripe. Never holds funds.,https://github.com/junter1989k-ai/romania-payments-mcp
+app.wishpool/rwanda-payments-mcp,app.wishpool,Rwanda payments for AI agents — MTN MoMo via Flutterwave. Never holds funds.,https://github.com/junter1989k-ai/rwanda-payments-mcp
+app.wishpool/saudi-arabia-payments-mcp,app.wishpool,Saudi Arabia payments for AI agents — mada / STC Pay via Tap Payments. Never holds funds.,https://github.com/junter1989k-ai/saudi-arabia-payments-mcp
+app.wishpool/senegal-payments-mcp,app.wishpool,Senegal payments for AI agents — Orange Money / Wave via Flutterwave. Never holds funds.,https://github.com/junter1989k-ai/senegal-payments-mcp
+app.wishpool/singapore-payments-mcp,app.wishpool,Singapore payments for AI agents — PayNow QR via HitPay. Never holds funds.,https://github.com/junter1989k-ai/singapore-payments-mcp
+app.wishpool/slovakia-payments-mcp,app.wishpool,Slovakia payments for AI agents — cards / Apple Pay via Stripe. Never holds funds.,https://github.com/junter1989k-ai/slovakia-payments-mcp
+app.wishpool/slovenia-payments-mcp,app.wishpool,Slovenia payments for AI agents — cards / Apple Pay via Stripe. Never holds funds.,https://github.com/junter1989k-ai/slovenia-payments-mcp
+app.wishpool/south-africa-payments-mcp,app.wishpool,South Africa payments for AI agents — cards / EFT via Paystack. Never holds funds.,https://github.com/junter1989k-ai/south-africa-payments-mcp
+app.wishpool/spain-payments-mcp,app.wishpool,Spain payments for AI agents — cards / Apple Pay via Stripe. Never holds funds.,https://github.com/junter1989k-ai/spain-payments-mcp
+app.wishpool/sweden-payments-mcp,app.wishpool,Sweden payments for AI agents — Klarna via Stripe. Never holds funds.,https://github.com/junter1989k-ai/sweden-payments-mcp
+app.wishpool/switzerland-payments-mcp,app.wishpool,Switzerland payments for AI agents — TWINT via Stripe. Never holds funds.,https://github.com/junter1989k-ai/switzerland-payments-mcp
+app.wishpool/taiwan-payments-mcp,app.wishpool,"Taiwan payments (ECPay 綠界 + NewebPay 藍新) & e-invoices for AI agents. Stateless, never holds funds.",https://github.com/junter1989k-ai/taiwan-payments-mcp
+app.wishpool/tanzania-payments-mcp,app.wishpool,Tanzania payments for AI agents — M-Pesa / Tigo Pesa via Flutterwave. Never holds funds.,https://github.com/junter1989k-ai/tanzania-payments-mcp
+app.wishpool/thailand-payments-mcp,app.wishpool,"Thailand payments for AI agents — PromptPay QR, cards, TrueMoney via Opn (Omise). Never holds funds.",https://github.com/junter1989k-ai/thailand-payments-mcp
+app.wishpool/turkey-payments-mcp,app.wishpool,Turkey payments for AI agents — Turkish cards / taksit via iyzico. Never holds funds.,https://github.com/junter1989k-ai/turkey-payments-mcp
+app.wishpool/uae-payments-mcp,app.wishpool,United Arab Emirates payments for AI agents — Apple Pay / cards via Tap Payments. Never holds funds.,https://github.com/junter1989k-ai/uae-payments-mcp
+app.wishpool/uganda-payments-mcp,app.wishpool,Uganda payments for AI agents — MTN MoMo via Flutterwave. Never holds funds.,https://github.com/junter1989k-ai/uganda-payments-mcp
+app.wishpool/uk-payments-mcp,app.wishpool,United Kingdom payments for AI agents — Stripe checkout via Stripe. Never holds funds.,https://github.com/junter1989k-ai/uk-payments-mcp
+app.wishpool/ukraine-payments-mcp,app.wishpool,Ukraine payments for AI agents — LiqPay cards / Apple Pay via LiqPay. Never holds funds.,https://github.com/junter1989k-ai/ukraine-payments-mcp
+app.wishpool/uruguay-payments-mcp,app.wishpool,Uruguay payments for AI agents — Mercado Pago wallet via Mercado Pago. Never holds funds.,https://github.com/junter1989k-ai/uruguay-payments-mcp
+app.wishpool/usa-payments-mcp,app.wishpool,United States payments for AI agents — Stripe checkout via Stripe. Never holds funds.,https://github.com/junter1989k-ai/usa-payments-mcp
+app.wishpool/vietnam-payments-mcp,app.wishpool,"Vietnam payments for AI agents — MoMo wallet QR, ATM, cards. Zero-setup sandbox. Never holds funds.",https://github.com/junter1989k-ai/vietnam-payments-mcp
+app.wishpool/zambia-payments-mcp,app.wishpool,Zambia payments for AI agents — mobile money via Flutterwave. Never holds funds.,https://github.com/junter1989k-ai/zambia-payments-mcp
+au.com.nexpay/core,au.com.nexpay,"Connect your AI assistant to NexPay to view payments, contacts, commissions, and exchange rates.",
+br.com.pushinpay/mcp,br.com.pushinpay,"MCP oficial da PushinPay: cobranças PIX, consulta de transações e saldo via IA.",https://github.com/Pushin-Pay/pushinpay-mcp-server
+ca.canada-payroll/canada-payroll,ca.canada-payroll,"Verified 2026 Canadian payroll math: employer total cost, employee take-home, net-to-gross. Free.",
+cash.u/ucash-pay,cash.u,"Pay x402 resources on U.CASH from your own wallet: view the price, pay on-chain, settle by hash.",https://github.com/UdotCASH/mcp-ucash
+co.sivut.pay/sec-crypto-filing-radar,co.sivut.pay,SEC EDGAR crypto filing radar MCP with x402-paid Base USDC data URLs.,https://github.com/rambov1/sivut-x402-public-data
+com.a2awire/benchmark-catch-the-overpayment-v1,com.a2awire,Free to compete: testnet faucet funds everything. Audit an AP queue for overpayments.,https://github.com/ee324/a2awire
+com.agenticpaywall/composer,com.agenticpaywall,Composes + runs multi-step external-data workflows for one quoted USDC price (x402).,
+com.auraspay/merchant-payments,com.auraspay,Review AurasPay merchant payments and prepare payment links with scoped OAuth and human approval.,https://github.com/AurasPayOfficial/auraspay-mcp
+com.bagsthatpay/site,com.bagsthatpay,"Bags That Pay: the site's own MCP server — dataset, enquiry, entities, listing (enquiry = a...",
+com.beyondpayday/mcp,com.beyondpayday,"Household finance planner: cash flow, net worth, bills, debts, goals, retirement.",
+com.blindpay/mcp,com.blindpay,"Official BlindPay MCP server: stablecoin payouts, payins, quotes and receivers for global payments.",https://github.com/blindpaylabs/blindpay-mcp
+com.canadapayrollcalculator/site,com.canadapayrollcalculator,"Canada Payroll Calculator: the site's own MCP server — calculator, enquiry (enquiry = a human...",
+com.crosswirepay/crosswire,com.crosswirepay,"Indicative pricing, coverage and stack design for high-risk and crypto payment infrastructure.",
+com.deepfirstsearch/agent-pay-mcp,com.deepfirstsearch,"x402 payments in USDC on Base inside an owner-signed, on-chain budget the model can't change",https://github.com/DeepFirstHQ/deepfirstsearch
+com.dropwatchhq/payer-api-directory,com.dropwatchhq,"Directory of US clearinghouse/payer APIs (Availity, Optum, Waystar) with pricing & access signals.",
+com.entangleeq/pay-transparency,com.entangleeq,EU pay transparency (Directive 2023/970) and French Egapro readiness assistant. Public data only.,
+com.entangleit/agentpay,com.entangleit,"Prepaid USD wallets for AI agents: card top-ups, scoped keys, BSV x402 payments over MCP.",
+com.eruditepay/blockchain-intelligence,com.eruditepay,"168 MCP tools: token prices, whale tracking, DeFi, wallets across Base/Tron/BTC/XRP/Kaspa",https://github.com/EruditeIntelligence/blockchain-intelligence-mcp
+com.feeless402/nano-pay,com.feeless402,"Pay for x402-priced APIs with feeless, sub-second Nano (XNO) micropayments from a local wallet.",https://github.com/Feeless402/feeless402
+com.focxle/agent-payments-virtual-cards,com.focxle,Retired: Focxle no longer issues cards. Use com.focxle/b2b-agent-negotiation-governance.,
+com.freshypenguin/ao-payload-rescue,com.freshypenguin,Repair malformed JSON that fails a schema. Deterministic only; refuses to guess; signed receipt.,
+com.gumballtools/payload-validator,com.gumballtools,"Validate JSON, YAML, XML and CSV with exact line/column errors and silent-corruption warnings.",https://github.com/bwalvoord/gumball
+com.hit-pay/mcp,com.hit-pay,"Official HitPay MCP: sales, payouts, balances; create payment links and invoices. OAuth; no refunds.",https://github.com/hit-pay/claude-code-plugin
+com.ifthenpay/payments,com.ifthenpay,"Remote MCP for ifthenpay payments: Multibanco, MB WAY and Payshop.",https://github.com/ifthenpay/mcp-payments
+com.luniumpay/pix-brazilian-payments,com.luniumpay,"PIX payments for Brazil: verify a settlement with no API key, or sell USDT/USDC for BRL over PIX.",
+com.maltapayrollcalculator/site,com.maltapayrollcalculator,"Malta Payroll Calculator: the site's own MCP server — calculator, enquiry (enquiry = a human...",
+com.mandateshield/payment-authority,com.mandateshield,Analyzes delegated AI payment authority and exposes supported Stripe/x402 evidence contracts.,
+com.manospay/manospay,com.manospay,"Invoices, proposals and payments for contractors. Bilingual (ES/EN). Sign in with ManosPay.",
+com.mnemopay/gridstamp,com.mnemopay,"Cryptographic spatial proof-of-presence for AV fleets, logistics, AR. 91% spoof detection.",https://github.com/mnemopay/gridstamp
+com.mnemopay/sdk,com.mnemopay,"Memory + wallet for AI agents. Real payment rails, Agent FICO 300-850, Merkle audit, identity.",https://github.com/mnemopay/mnemopay-sdk
+com.neuronto/x402-payments-facilitator,com.neuronto,"Put any API behind x402 in one call, settle USDC on Base, buy credits, find paid resources",https://github.com/neuronto/x402-starters
+com.obsmetrics.paygent/agents,com.obsmetrics.paygent,"Pay-per-call safety guards for AI agents: injection, tool-call, signing, secret, x402-trust.",
+com.papayapay.consumer-production.mcp-agent/bill-payment,com.papayapay.consumer-production.mcp-agent,"Pay any US bill in a snap, right from your chat — utilities, medical, rent, parking tickets & more.",
+com.payforapi/saymon-ru-data-api,com.payforapi,"Russian company lookup (EGRUL/INN), Cyrillic search, RU page to Markdown. Pay per call in USDC.",
+com.paypal.mcp/mcp,com.paypal.mcp,PayPal MCP server provides access to PayPal services and operations for AI assistants,
+com.payperfax/fax,com.payperfax,Send a fax from AI. Pay per fax. No registration or subscription. Pay only for successful faxes.,https://github.com/payperfax/fax-mcp
+com.payram/mcp,com.payram,"Install, configure, operate and integrate self-hosted PayRam crypto payment gateways.",https://github.com/PayRam/payram-mcp
+com.payrent/mcp,com.payrent,"Connect AI assistants to PayRent to manage landlord portfolios, confirming changes first.",
+com.payrollservicesquotes/site,com.payrollservicesquotes,"Payroll Services Quotes: the site's own MCP server — dataset, enquiry (enquiry = a human...",
+com.paysafe-agent/paysafe,com.paysafe-agent,"Payment firewall for x402: scans for replay, overpayment, PII/secret leaks, prompt-injection.",
+com.paytm.travel/discovery,com.paytm.travel,"Discover and compare live Paytm flights and buses by fare, schedule, operator, stops, and amenities.",
+com.paywallcompass/site,com.paywallcompass,"PaywallCompass: the site's own MCP server — dataset, enquiry (enquiry = a human handoff, not a...",
+com.paywithlocus/locus,com.paywithlocus,"Pay-per-use APIs for agents: web research, data lookups, and metered endpoints billed to credits.",https://github.com/locus-technologies/locus-pro-plugin
+com.pinkwallet/agentic-payments-sandbox,com.pinkwallet,"Approval layer for AI agent payments: budgets, rules, human approval. Sandbox, test credentials.",
+com.scriptmasterlabs/x402-pay,com.scriptmasterlabs,"Pay for APIs with USDC. Read-only x402 payment discovery, verification, evidence, and status.",https://gitlab.com/timothy.walton45/sml-portfolio
+com.tgpaybot/merchant-api,com.tgpaybot,"Accept crypto payments via the TgPay Merchant API — invoices, subscriptions, webhooks.",
+com.tools-berry/paycheck,com.tools-berry,"Live US paycheck and payroll-tax math for 2026, all 50 states and DC, powered by tools-berry.com.",https://github.com/edyda99/tools-berry-mcp
+com.weverpay/connect,com.weverpay,"Discover willing agents, request permission, hand off durable tasks, and recover private results.",
+com.weverpay/public-testnet-alpha,com.weverpay,"Open Base Sepolia testnet exchange for autonomous buyer and seller agents, with signed receipts.",
+com.weverpay/world-data,com.weverpay,"Discover Wever services, process data, and delegate checked results between agents.",
+com.wiselyenterprisesllc/x402-agent-payment-infrastructure,com.wiselyenterprisesllc,"Self-facilitated x402/MCP payments for hosted endpoints, rail proofs, receipts, and agents.",
+com.x402-agent-pay/facilitator,com.x402-agent-pay,Verify signed x402 payments; treasury-scoped settlement is irreversible.,
+cool.payload.api/video-transcript,cool.payload.api,"Any video URL to LLM-ready transcript. ASR built in, no captions needed. TikTok, X, TED and more.",
+dev.agentpays/agentpays,dev.agentpays,"Payment infrastructure for AI agents: spending rules, approval flows, single-use virtual cards.",
+dev.cz-agents/payqr,dev.cz-agents,"European payment QR — SPAYD (CZ/SK) & EPC/GiroCode (SEPA), plus text/WiFi/vCard. Local, free.",https://github.com/martinhavel/cz-agents-mcp
+dev.paypercall.extract/vend-api-merchant,dev.paypercall.extract,"Pay-per-call web intel: extract, search, link check, domain, geo, Nano. Settled via Nano x402.",https://github.com/dhyabi2/vend
+dev.shveik/agpay,dev.shveik,"Payments held between two agents: buyer pays, seller delivers, buyer confirms. Pay per call.",
+dev.sparkpay/sparkpay,dev.sparkpay,"Stripe billing for indie apps: plans, coupons, subscriptions, customers and revenue reporting.",
+eu.paymentslaw/legislation,eu.paymentslaw,"EU payments legislation: PSD2, RTS-SCA, PSD3/PSR, DORA; provisions, definitions and text changes.",
+finance.genesispay/mcp,finance.genesispay,"Let an AI agent find and pay for x402 APIs and products in USDC on Base, within owner-set limits.",https://github.com/GenesisTechAT/genesispay-js
+help.agentpay/agentpay,help.agentpay,"34 pay-per-call AI microservices via x402, USDC on Base, no API keys.",https://github.com/ronaldanton/x402-shop
+info.blocksize.mcp/agentic-payments,info.blocksize.mcp,"Multi-venue VWAP, bid/ask, crypto FX, metals and equities with provenance receipts for AI agents",https://github.com/jf-cmyk/agentic-payments
+io.asterpay/asterpay,io.asterpay,"EUR settlement + trust for AI agent commerce: budgets, KYA, merchant discovery. 22 tools.",https://github.com/AsterPay/erc8183-kya-hook
+io.canopypay/mcp,io.canopypay,"Create crypto deposit intents, list payable chains and tokens, and read settlement status.",
+io.github.100xPercent/pop-pay,io.github.100xPercent,Runtime security for AI agent commerce. CLI + MCP server blocks hallucinated purchases.,https://github.com/100xPercent/pop-pay
+io.github.Abraxas1010/agent-payment-mcp,io.github.Abraxas1010,Secure USDC payments for AI agents on Base blockchain with budget controls and instant settlement.,https://github.com/Abraxas1010/agent-payment-mcp
+io.github.AgentTanuki/x402-payment-safety,io.github.AgentTanuki,"Authorize x402 payments before signing with request-bound, signed safety decisions.",https://github.com/AgentTanuki/agent-guild
+io.github.AlpayC/abfall-mcp-server,io.github.AlpayC,Waste collection dates for German addresses from municipal authority calendars.,https://github.com/AlpayC/abfall-mcp-server
+io.github.Apoth3osis-ai/agent-payment-mcp,io.github.Apoth3osis-ai,Secure MCP router providing access to AgentPMT's pay-per-use AI tools marketplace.,https://github.com/Apoth3osis-ai/agent-payment-mcp
+io.github.Book0fEli/paycheck,io.github.Book0fEli,"Check any x402 endpoint before your AI agent pays it: trust grade, verdict, and hijack checks.",https://github.com/Book0fEli/lumiere-paycheck
+io.github.Buddhima-JD3/sri-lanka-payslip,io.github.Buddhima-JD3,"Source-backed Sri Lanka payslip tools for APIT/PAYE, EPF, ETF, stamp duty, and net pay.",https://github.com/Buddhima-JD3/sri-lanka-salary-calculator
+io.github.CSOAI-ORG/agent-commerce-payments-mcp,io.github.CSOAI-ORG,Agent Commerce Payments MCP Server by MEOK AI Labs,https://github.com/CSOAI-ORG/agent-commerce-payments-mcp
+io.github.CSOAI-ORG/agent-x402-paywall-mcp,io.github.CSOAI-ORG,Agent x402 Paywall MCP — Coinbase HTTP 402 protocol + on-chain settlement. Agents pay per-call,https://github.com/CSOAI-ORG/agent-x402-paywall-mcp
+io.github.CryptoAPIs-io/mcp-x402-pay,io.github.CryptoAPIs-io,"MCP server that pays x402-gated HTTP endpoints — fetch, and on a 402 authorize, sign, retry",https://github.com/CryptoAPIs-io/cryptoapis-mcp-x402-pay
+io.github.Damien829/aipaygen,io.github.Damien829,"65+ AI tools as MCP: research, write, code, scrape, translate, RAG, agent memory, workflows",https://github.com/Damien829/aipaygen
+io.github.Evozim/agentic-payroll-processor-mcp,io.github.Evozim,Premium agentic endpoint for agentic-payroll-processor-mcp.,
+io.github.Evozim/base64-payload-decoder-mcp,io.github.Evozim,Premium agentic endpoint for base64-payload-decoder-mcp.,
+io.github.FurlPay/furlpay-cli,io.github.FurlPay,"Stablecoin payments, swaps, stock orders, market data, travel booking, yield and card controls.",https://github.com/FurlPay/furlpay-cli
+io.github.HTTPayer/mcp,io.github.HTTPayer,"x402 micropayments for AI agents — credits-based, no wallets, no blockchain.",https://github.com/httpayer/mcp
+io.github.Hellotravisss/agentpay,io.github.Hellotravisss,"Enforced budgets for agents paying x402 APIs: the gateway holds the wallet, not the agent.",https://github.com/Hellotravisss/agentpay
+io.github.Ipayx-stellar/fx-audit,io.github.Ipayx-stellar,Forensic FX audit. Detects hidden bank markups in real time. Returns spread bps + audit score 1-10.,
+io.github.J8k3/aws-payment-cryptography-mcp,io.github.J8k3,"AWS Payment Cryptography via MCP — keys, PIN/MAC/CVV/ARQC, PCI guards, HSM migration analysis.",https://github.com/J8k3/aws-payment-cryptography-mcp
+io.github.Misterio070/scanpay,io.github.Misterio070,"Code security scanner for AI agents. 45+ vulnerability patterns, AST analysis, Solana micropayments.",https://github.com/Misterio070/scanpay
+io.github.Ourpay/ourpay-wallet,io.github.Ourpay,"Crypto wallet for AI agents: balances, payments, swaps and trading with owner controls.",https://github.com/Ourpay/ourpay-wallet
+io.github.PGhannmmn/base-payment-assurance,io.github.PGhannmmn,Dual-RPC Base USDC payment assurance with safe finality and exact transfer matching.,
+io.github.PalabreX/runpay,io.github.PalabreX,Stripe-native marketplace where AI agents discover and pay per call for API services.,https://github.com/PalabreX/runpay-mcp
+io.github.Paydirt-AI/paydirt-mcp,io.github.Paydirt-AI,Agent-native installer and control plane for Paydirt iOS feedback,https://github.com/Paydirt-AI/paydirt-mcp
+io.github.Payotte-com/payotte-mcp,io.github.Payotte-com,"Verified Canadian real-estate pros + housing data: rates, transfer tax, rent-vs-buy, QC assessments.",https://github.com/Payotte-com/payotte-mcp
+io.github.Robocular/spawnpay,io.github.Robocular,"Crypto wallets, payments, and referral earnings for AI agents on Base L2",https://github.com/Robocular/spawnpay
+io.github.RudrenduPaul/freelancer-payment-protection,io.github.RudrenduPaul,Wraps the fpp CLI as a single generic MCP tool for freelancer client payment-risk checks.,https://github.com/RudrenduPaul/freelancer-payment-protection
+io.github.Rumblingb/agentpay,io.github.Rumblingb,"Agent payments, API key vaulting, and governed mandates. Agents spend within user-defined limits.",https://github.com/Rumblingb/Agentpay
+io.github.Rumblingb/agentpay-feed-mcp,io.github.Rumblingb,Real-time agentic newsfeed for MCP tools and capabilities,https://github.com/Rumblingb/agentpay-feed-mcp.git
+io.github.Rumblingb/agentpay-gateway-mcp,io.github.Rumblingb,Centralized API gateway routing to MCP servers with per-call billing,https://github.com/Rumblingb/agentpay-gateway-mcp.git
+io.github.Rumblingb/agentpay-sentinel-mcp,io.github.Rumblingb,Security guardrails for AI agent payments,https://github.com/Rumblingb/agentpay-sentinel-mcp.git
+io.github.SMABoundless/unpaywall,io.github.SMABoundless,Open-access availability for 120M+ scholarly articles via the Unpaywall API,https://github.com/SMABoundless/unpaywall-mcp-server.git
+io.github.SXQ0607/gk-pay-skills-mcp,io.github.SXQ0607,"13 pay-per-use Chinese tools (diagnosis, PLC, copywriting, divination), 0.05 CNY/call via A2M 402.",https://github.com/SXQ0607/gk-pay-skills-mcp
+io.github.ShieldCubed/agentic-pay,io.github.ShieldCubed,"Non-custodial payment engine for AI agents — BTC, ETH, USDT, USDC, XRP, XMR, ZEC.",https://github.com/ShieldCubed/agentic-pay
+io.github.WYRE-AI/alternative-payments-mcp,io.github.WYRE-AI,"MCP server for Alternative Payments — customers, invoices, payment requests, payouts, webhooks.",https://github.com/WYRE-AI/alternative-payments-mcp
+io.github.Warppay402/warppay-mcp,io.github.Warppay402,"Pay-per-use AI tools monetized via x402 USDC micropayments on Base, Solana, and Arc.",https://github.com/Warppay402/warppay-mcp
+io.github.ZebpayRajesh/zebpay-mcp-server,io.github.ZebpayRajesh,"MCP server for ZebPay crypto exchange — fetch prices, balances, and manage orders",https://github.com/zebpay/zebpay-mcp-server
+io.github.agentzeny/snap-private-payments,io.github.agentzeny,"Private agent payments on Solana via ZK proofs: deposit, withdraw, list pools, estimate fees.",https://github.com/agentzeny/snap-public
+io.github.agnicpay-prog/agnicpay,io.github.agnicpay-prog,X402 payment MCP for AI agents. Auto-pay 300+ APIs with USDC on Base and Solana.,https://github.com/agnicpay-prog/agnicpay-mcp
+io.github.alefnt/agentpay,io.github.alefnt,AI Agent payment protocol on CKB Fiber Network. Zero-gas micropayments with Hold Invoice escrow.,https://github.com/alefnt/AgentPay
+io.github.apayne1987-droid/payne-machine-revenue,io.github.apayne1987-droid,"Verify live jobs/RFPs, deadlines, eligibility, terms changes, and Base/web data via x402.",https://github.com/apayne1987-droid/-payne-autonomous-product-factory
+io.github.aproxpay/aproxproxy,io.github.aproxpay,"Residential proxy for AI agents via x402 — fetch, sessions, exit country",
+io.github.bpays/benji-pays,io.github.bpays,"Sits between accounting and payment rails for reminders, Pay Now, autopay, portal, and book sync.",https://github.com/bpays/benji-pays-agent-plugin
+io.github.codespar/mcp-epayco,io.github.codespar,"MCP server for ePayco — Colombian gateway: cards, PSE, Daviplata and cash networks",https://github.com/codespar/mcp-dev-latam
+io.github.codespar/mcp-izipay,io.github.codespar,"MCP server for Izipay — Peru enterprise acquirer (Niubiz): authorize/capture/refund, cuotas",https://github.com/codespar/mcp-dev-latam
+io.github.codespar/mcp-moonpay,io.github.codespar,"MCP server for MoonPay — fiat-to-crypto on/off-ramp, 100+ assets; Pix for Brazil onramp",https://github.com/codespar/mcp-dev-latam
+io.github.codespar/mcp-nupay,io.github.codespar,MCP server for NuPay — Nubank merchant checkout: Pix + wallet one-click for 100M+ BR users,https://github.com/codespar/mcp-dev-latam
+io.github.codespar/mcp-openpay,io.github.codespar,"MCP server for Openpay — BBVA-owned Mexican gateway (cards, SPEI, OXXO, subscriptions, payouts)",https://github.com/codespar/mcp-dev-latam
+io.github.codespar/mcp-paypal,io.github.codespar,"MCP server for PayPal — global payments + payouts: Orders v2, Payments, Subscriptions, Disputes",https://github.com/codespar/mcp-dev-latam
+io.github.codespar/mcp-payway,io.github.codespar,"Payway (ex-Decidir) — Argentina card acquiring: tokenize, charge, capture, refund",https://github.com/codespar/mcp-dev-latam
+io.github.codespar/mcp-picpay,io.github.codespar,"MCP server for PicPay Business — BR digital wallet (60M+ users): checkout, Pix QR, subscriptions",https://github.com/codespar/mcp-dev-latam
+io.github.codespar/mcp-safrapay,io.github.codespar,"MCP server for Safrapay — Banco Safra acquirer: credit, Pix, boleto + split, 3DS, chargebacks",https://github.com/codespar/mcp-dev-latam
+io.github.codespar/mcp-unblockpay,io.github.codespar,"MCP server for UnblockPay — fiat-to-stablecoin onramp/offramp, wallets, transfers",https://github.com/codespar/mcp-dev-latam
+io.github.codespar/mcp-worldpay,io.github.codespar,"MCP server for Access Worldpay — enterprise processor: authorize, capture, refund, tokenize",https://github.com/codespar/mcp-dev-latam
+io.github.comil27/debt-payoff-mcp,io.github.comil27,RETIRED - this server is discontinued and its backend is offline. Do not use.,https://github.com/comil27/debt-payoff-mcp
+io.github.covaltpay/covalt-gateway,io.github.covaltpay,Trusted execution infrastructure for AI agents. Proposal-only protocol with human consent.,https://github.com/covaltpay/Covaltpay
+io.github.danchev/spherepay,io.github.danchev,"Manage SpherePay customers, bank accounts, wallets, and transfers from Claude.",https://github.com/danchev/spherepay-mcp
+io.github.daochild/aifinpay,io.github.daochild,Pay for any HTTP API in stablecoins on Polygon and Solana with one MCP call.,https://github.com/AiFinPay/sdk
+io.github.davisvillelabs/payeeproof,io.github.davisvillelabs,Payment identity intelligence for AI agents.,
+io.github.defdone/payaion,io.github.defdone,Agent file transfer. No API key to start; price downloads in USDC on Base.,
+io.github.derNif/payanagent,io.github.derNif,"Buy any of 24,000+ live x402 services with USDC on Base — the open marketplace for the agent economy",https://github.com/derNif/payanagent
+io.github.dheerajjha/payband-mcp,io.github.dheerajjha,"What a role really pays, including markets where the employer publishes no range.",https://github.com/dheerajjha/payband-mcp
+io.github.discover-dmc/paygentic,io.github.discover-dmc,"Pay-per-call APIs for AI agents: web scraping, DNS/email checks, classification, trading risk.",https://github.com/discover-dmc/paygentic
+io.github.djautomd-lab/aipaygent,io.github.djautomd-lab,"Claude-powered AI tools: research, write, code, analyze, translate, debate, pitch, score, and more.",
+io.github.dma9527/irs-taxpayer,io.github.dma9527,44 local US tax estimation and planning tools for supported TY2024 through TY2026 scenarios.,https://github.com/dma9527/irs-taxpayer-mcp
+io.github.dodopayments/dodo-knowledge,io.github.dodopayments,Semantic search over the current Dodo Payments documentation. No authentication required.,https://github.com/dodopayments/dodo-agent-plugin
+io.github.dodopayments/dodopayments-api,io.github.dodopayments,"Dodo Payments API: payments, subscriptions, customers, products, refunds, licenses, usage.",https://github.com/dodopayments/dodo-agent-plugin
+io.github.evidai/agent-payment,io.github.evidai,Stripe-style USDC billing for any API. 8 free demo services no signup. Non-custodial.,https://github.com/evidai/agent-payment-mcp
+io.github.forum-labs/payfetch,io.github.forum-labs,"x402 paying-fetch client for AI agents. Spending caps, approval, receipts. Non-custodial.",https://github.com/forum-labs/payfetch
+io.github.fxams/crewpay-mcp,io.github.fxams,Solana Pump.fun launches with KOL Autohire and CREW fee-shares (25% buyback).,https://github.com/fxams/crew
+io.github.geoacpfilho/paygate-monetize-monetization-x402,io.github.geoacpfilho,"Monetize any MCP server: x402 paywall, pay-per-call billing in USDC on Base, agent marketplace.",https://github.com/geoacpfilho/paygate-mcp
+io.github.ghstaking/bentcrypto-machine-payments,io.github.ghstaking,Paid token risk and security intelligence for AI agents over MCP with x402 payments.,
+io.github.ginokino/swarmpay,io.github.ginokino,"Payment layer for AI agents. Send USDC, manage escrows on Base blockchain.",https://github.com/ginokino/swarmpay-sdk
+io.github.groundhogday2011-byte/a2apay,io.github.groundhogday2011-byte,"Pay-per-call AI query and versioned task memory for agents. No account, no API key, via x402.",https://github.com/groundhogday2011-byte/a2apay
+io.github.iPAYX-Technologies/mcp-fx-audit,io.github.iPAYX-Technologies,FX forensic audit MCP. Detects hidden bank markups on cross-border payments. FINTRAC MSB.,https://github.com/iPAYX-Technologies/mcp-fx-audit
+io.github.iamalanlui/apipay,io.github.iamalanlui,"Prepaid balance for AI agents: one key, 4,900+ tools your agent can run today, caps, receipts.",https://github.com/iamalanlui/apifare-mcp
+io.github.indiamcp/razorpay,io.github.indiamcp,MCP server for Razorpay API.,https://github.com/indiamcp/razorpay-mcp
+io.github.investorphem/abapay,io.github.investorphem,"Non-custodial stablecoin bill-pay rails on Celo & Base for AI agents, settled on-chain via MCP.",https://github.com/investorphem/AbaPay
+io.github.jams24/inventpay-mcp,io.github.jams24,"Manage crypto payments, stores, digital products, and orders via InventPay",https://github.com/jams24/inventpay-api
+io.github.jmshinhwa/payroll-deduction-code-audit,io.github.jmshinhwa,"Twelve rules over the deduction-code map, before the January 31 W-2 filing date",https://github.com/jmshinhwa/readystack-themes
+io.github.jmshinhwa/pci-payment-page-script-audit,io.github.jmshinhwa,"PCI DSS 4.0.1 requirements 6.4.3 and 11.6.1 have been mandatory since 2025-03-31, and the PCI SSC re",https://github.com/jmshinhwa/readystack-themes
+io.github.joepangallo/agent-pay,io.github.joepangallo,"Payment gateway for AI agents with tool discovery, provisioning, metering, and reliability tools.",https://github.com/joepangallo/agent-pay
+io.github.jpbester/payfast,io.github.jpbester,MCP server for PayFast — AI assistants interact with South Africa's payment gateway,https://github.com/jpbester/payfast-mcp
+io.github.kar69-96/agentpay,io.github.kar69-96,"AI agent payments with human approval. Local-first, encrypted credentials, budget controls.",https://github.com/kar69-96/useagentpay
+io.github.kingsleyzissougdi/check-x402-payment-readiness,io.github.kingsleyzissougdi,Call before paying an x402 resource. Returns PAY/BLOCKED. Does not move funds.,
+io.github.kishida-devil/jp-payroll-mcp,io.github.kishida-devil,Japan payroll & social insurance. 日本の給与計算・社会保険。47都道府県の料率、源泉所得税、割増賃金、有給、標準報酬月額の改定、最低賃金。根拠の条文つき。,https://github.com/kishida-devil/jp-payroll-mcp
+io.github.krystiangw/agenticpay,io.github.krystiangw,x402 USDC paywall bridge for MCP — pay per tool call on Solana.,https://github.com/krystiangw/agenticpay
+io.github.lazymac2x/api-payload-auditor,io.github.lazymac2x,Cloudflare Workers MCP server: api-payload-auditor,https://github.com/lazymac2x/api-payload-auditor-api
+io.github.leosuhail-cmd/check-before-you-pay,io.github.leosuhail-cmd,"Before an agent pays, get a verdict and a keepable receipt. Not insurance. Not custody.",
+io.github.llmops-pro/paywall-mcp,io.github.llmops-pro,"Lightning-paywall sidecar: wraps any stdio MCP server, requires paid invoices before tool calls.",https://github.com/llmops-pro/paywall-mcp
+io.github.lordbasilaiassistant-sudo/gas-paymaster,io.github.lordbasilaiassistant-sudo,Gas credit management and sponsored transactions via The Agent Cafe paymaster,https://github.com/lordbasilaiassistant-sudo/mcp-servers
+io.github.markopints34-tech/checkmypayrate,io.github.markopints34-tech,Salary benchmarks for 20 countries and 13 sectors from OECD and Eurostat data.,https://github.com/markopints34-tech/checkmypayrate
+io.github.mcp-dir/99pay-mcp,io.github.mcp-dir,"Connect your 99Pay account to AI via Brazil's Open Finance: balances, statements, cards, investments",https://github.com/mcp-dir/99pay-mcp
+io.github.mcp-dir/infinitepay-mcp,io.github.mcp-dir,"Connect your InfinitePay account to AI via Brazil's Open Finance: balances, statements, cards, inves",https://github.com/mcp-dir/infinitepay-mcp
+io.github.mcp-dir/picpay-mcp,io.github.mcp-dir,"Connect your PicPay account to AI via Brazil's Open Finance: balances, statements, cards, investment",https://github.com/mcp-dir/picpay-mcp
+io.github.mcp-dir/recargapay-mcp,io.github.mcp-dir,"Connect your RecargaPay account to AI via Brazil's Open Finance: balances, statements, cards, invest",https://github.com/mcp-dir/recargapay-mcp
+io.github.mcp-dir/safrapay-mcp,io.github.mcp-dir,"Connect your SafraPay account to AI via Brazil's Open Finance: balances, statements, cards, investme",https://github.com/mcp-dir/safrapay-mcp
+io.github.mercadosclaro-eng/payguard,io.github.mercadosclaro-eng,"Pre-payment checks for AI agents: x402 quotes, untrusted prompts and audit receipts.",
+io.github.michu5696/paycrow,io.github.michu5696,Escrow protection for agent payments on Base — USDC held in smart contract until job completion.,
+io.github.mifactory-bot/mifactory-payments,io.github.mifactory-bot,"Stripe payments for AI agents. Create links, verify, manage customers.",https://github.com/mifactory-bot/mifactory-payments
+io.github.mlawsonking/payment-guard-mcp,io.github.mlawsonking,Pre-send risk check for AI agents that move money — screen an address or payment URL before sending.,https://github.com/mlawsonking/MCP
+io.github.mnemopay/sdk,io.github.mnemopay,"Memory + wallet for AI agents. Real payment rails, Agent FICO 300-850, Merkle audit, identity.",https://github.com/mnemopay/mnemopay-sdk
+io.github.mrfentmen/unpaywall-mcp,io.github.mrfentmen,Open access links from Unpaywall. No key required.,https://github.com/mrfentmen/unpaywall-mcp
+io.github.mrslbt/paypay-mcp,io.github.mrslbt,"PayPay QR payments for AI agents: QR codes, status, refunds, cancels. Bilingual JP/EN.",https://github.com/mrslbt/paypay-mcp
+io.github.neuralaisofficial-lang/apay,io.github.neuralaisofficial-lang,Universal HTTP 402 Micropayment Protocol & Autonomous Economic Settlement Engine for AI Agents,https://github.com/neuralaisofficial-lang/a_pay
+io.github.neuralmint/imagepay-mcp,io.github.neuralmint,"ImagePay MCP: 40 x402 paid API tools (OCR, PDF, image, QR, tabular, web). Pay per call on Base.",https://github.com/neuralmint/imagepay-mcp
+io.github.nirholas/agentcore-payments-mcp,io.github.nirholas,"Governed x402 payment sessions: pay any endpoint with budget, allowlist & per-tx caps, no key.",https://github.com/nirholas/three.ws
+io.github.noah-silver/agentpay-bundle,io.github.noah-silver,"Pay-per-call web extract, DNS/WHOIS/IP lookup, PDF/RSS/sitemap tools. x402 USDC on Base/Algorand.",https://github.com/noah-silver/agentpay
+io.github.noah-silver/agentpay-extract,io.github.noah-silver,"Pay-per-call web page to markdown, metadata and links for agents. x402 USDC on Base or Algorand.",https://github.com/noah-silver/agentpay
+io.github.noah-silver/agentpay-lookup,io.github.noah-silver,"Pay-per-call DNS, WHOIS/RDAP, IP and domain reports for agents. x402 USDC on Base or Algorand.",https://github.com/noah-silver/agentpay
+io.github.noah-silver/agentpay-tools,io.github.noah-silver,"Pay-per-call PDF to text, RSS/Atom to JSON, sitemap to URLs for agents. x402 USDC, Base/Algorand.",https://github.com/noah-silver/agentpay
+io.github.nonameuserd/paybond,io.github.nonameuserd,"Default trust layer for agentic payments: authorize agent spend, evidence, receipts, settlement.",https://github.com/nonameuserd/paybond-kit
+io.github.pay-skill/pay-mcp,io.github.pay-skill,"USDC payments for AI agents on Base — direct, tabs, x402 paywalls, discovery",https://github.com/pay-skill/pay-mcp
+io.github.payclaw/badge,io.github.payclaw,Agents are not bots. Prove it. MCP-native identity declaration for authorized agents.,https://github.com/payclaw/badge-server
+io.github.payclaw/payclaw,io.github.payclaw,"Virtual Visa cards for AI agents. JIT card issuance, human-approved, MCP-native.",https://github.com/payclaw/mcp-server
+io.github.payclaw/spend,io.github.payclaw,Agents are not bots. PayClaw proves it — then lets them pay. Badge + Spend on existing Visa rails.,https://github.com/payclaw/mcp-server
+io.github.payload-tools/callx402,io.github.payload-tools,"Read-only x402 payment diagnostics: diagnose, evidence, explain, recover, resolve, status. Zero deps",https://github.com/Payloadhq/callx402
+io.github.paypal/paypal-mcp-server,io.github.paypal,A command line tool for setting up PayPal MCP server,https://github.com/paypal/paypal-mcp-server
+io.github.payu-intrepos/payu-developer-mcp,io.github.payu-intrepos,"Search PayU docs, browse the payment integration catalog, and fetch production-ready code.",https://github.com/payu-intrepos/payu-developer-mcp
+io.github.payware/mcp-server,io.github.payware,"payware A2A payments API for merchants, ISVs and payment institutions",https://github.com/payware/mcp-server
+io.github.phuocdu/agentpay-vn,io.github.phuocdu,Let AI agents collect VietQR payments — generate a QR and auto-confirm settlement.,https://github.com/phuocdu/agentpay-vn
+io.github.pipeworx-io/cms-open-payments,io.github.pipeworx-io,"CMS Open Payments, with annual dataset discovery through the official DKAN API.",https://github.com/pipeworx-io/mcp-cms-open-payments
+io.github.pipeworx-io/paypal,io.github.pipeworx-io,"PayPal MCP Pack — read-only access to PayPal transactions, orders, invoices, and disputes.",https://github.com/pipeworx-io/mcp-paypal
+io.github.pipeworx-io/travelpayouts,io.github.pipeworx-io,Travelpayouts MCP — wraps the Aviasales Flights Data API (travelpayouts.com),https://github.com/pipeworx-io/mcp-travelpayouts
+io.github.pipeworx-io/unpaywall,io.github.pipeworx-io,"Unpaywall MCP — open-access lookup for scholarly papers (free, no key)",https://github.com/pipeworx-io/mcp-unpaywall
+io.github.praveendias1180/easypaydirect-mcp,io.github.praveendias1180,Read-only MCP server for the Easy Pay Direct (EPD) / NMI-family payment gateway Query API.,https://github.com/praveendias1180/easypaydirect-mcp
+io.github.romudille-bit/agentpay,io.github.romudille-bit,"Buyer-side trust oracle + capped sessions for x402 agents: verified_route, receipts, 17 free tools.",https://github.com/romudille-bit/agentpay
+io.github.sadri-dridi/ksuid-pay,io.github.sadri-dridi,"KSUID payload charset, value discarded",https://github.com/sadri-dridi/named-mcp-utilities
+io.github.sdeanesh-png/agentpay,io.github.sdeanesh-png,"Spending controls for AI agents: per-agent budgets, vendor allowlists, full audit trail.",https://github.com/sdeanesh-png/agentpay
+io.github.sepehr071/payping-mcp,io.github.sepehr071,"PayPing merchant account for agents: balance, sales, invoices; create invoices and payment links.",https://github.com/sepehr071/payping-mcp
+io.github.shabaaspay/shabaaspay-mcp-server,io.github.shabaaspay,MCP server for PayTo agreements and payment initiation in Australia.,https://github.com/shabaaspay/shabaaspay-mcp-server
+io.github.speeedy10/foxify-x402-agent-commerce-payment-preflight,io.github.speeedy10,"x402 agent preflight: exact action authority plus payment mandate, destination, expiry and replay.",
+io.github.stevemilton/payagent-mcp,io.github.stevemilton,"Pay x402 APIs in USDC on Base, Solana, and BNB Chain with spend mandates, receipts, idempotency.",https://github.com/arispay-inc/payagent-mcp
+io.github.stevemilton/x402-payagent-mcp,io.github.stevemilton,"Pay x402 APIs in USDC on Base, Solana, and BNB Chain with spend mandates, receipts, idempotency.",https://github.com/arispay-inc/payagent-mcp
+io.github.stucchi/nexi-xpay,io.github.stucchi,"MCP server for Nexi XPay Back Office APIs: orders, transactions, warnings.",https://github.com/stucchi/nexi-xpay-mcp-server
+io.github.supra126/taiwan-payroll,io.github.supra126,台灣勞保、健保、勞退、職災與二代健保補充保費試算，含薪資扣繳、破月與勞保老年給付。資料取自主管機關公告，對官方範例逐位元驗證。,https://github.com/supra126/taiwan-payroll
+io.github.szarl/payments-ai-mcp,io.github.szarl,"Launch products and branded checkouts on Payments AI, the Merchant of Record for AI-built apps.",https://github.com/paymentsai/pai-managed
+io.github.t3ratech/wavepay,io.github.t3ratech,"Payments MCP: self-serve merchant key, PayNow + PayPal checkouts.",
+io.github.theYahia/cloudpayments-mcp,io.github.theYahia,"MCP server for CloudPayments API — charge, auth, confirm, void, refund, find transaction. 6 tools. ",https://github.com/theYahia/cloudpayments-mcp
+io.github.theYahia/travelpayouts-mcp,io.github.theYahia,"MCP server for Travelpayouts API -- flight search, popular routes, price calendar.",https://github.com/theYahia/travelpayouts-mcp
+io.github.theluckystrike/barcode-qr-code-sepa-payment-ean13,io.github.theluckystrike,"QR codes and barcodes offline: WiFi, vCards, SEPA payment codes, Code 128, EAN-13, SVG or PNG.",https://github.com/theluckystrike/mcp-servers
+io.github.theluckystrike/payment-reminder,io.github.theluckystrike,"Payment reminders for overdue invoices: reminder 1, reminder 2, final notice, aging.",https://github.com/theluckystrike/mcp-servers
+io.github.theluckystrike/payroll,io.github.theluckystrike,Gross-to-net payroll estimates for hourly staff with common withholding assumptions.,https://github.com/theluckystrike/mcp-servers
+io.github.therealMrFunGuy/solana-pay,io.github.therealMrFunGuy,On-chain Solana payments for MCP services with SOL and USDC support.,
+io.github.timolein74/asterpay,io.github.timolein74,"EUR settlement for AI agents. Trust scoring, market data, crypto analytics. 16 free tools.",https://github.com/timolein74/asterpay-api
+io.github.tracentdev/paystack-mcp,io.github.tracentdev,"Agent-callable Paystack for African commerce. Ten tools, integer-kobo money, NDPA-compliant.",https://github.com/tracentdev/tracent-paystack-mcp
+io.github.uantum/mcp-ucashpay,io.github.uantum,"U.CASH Pay merchant MCP: create checkouts, verify webhooks, read settings. Non-custodial.",
+io.github.up2itnow0822/agentpay,io.github.up2itnow0822,Non-custodial x402 payment MCP server for AI agents. Wallets and payments on 17 chains.,https://github.com/up2itnow0822/agentpay-mcp
+io.github.up2itnow0822/clawpay,io.github.up2itnow0822,"Non-custodial x402 payment MCP server for AI agents. Wallets, payments, and commerce on 17 chains.",https://github.com/up2itnow0822/agentpay-mcp
+io.github.up2itnow0822/clawpay-mcp,io.github.up2itnow0822,"Non-custodial x402 payments for AI agents. Sign locally, spend limits, Base network.",https://github.com/up2itnow0822/clawpay-mcp
+io.github.voidly-ai/pay-mcp,io.github.voidly-ai,"Public discovery, scoped creator work, original-only recovery; checkout stays in owner's browser.",https://github.com/voidly-ai/pay-mcp
+io.github.voidly-ai/voidpay,io.github.voidly-ai,"Hosted, no install: find agent services and storefronts, prepare owner-approved checkout links.",https://github.com/voidly-ai/pay-mcp
+io.github.wynnpay102-sys/awc-agent-commons,io.github.wynnpay102-sys,Discover funded testnet tasks with deterministic on-chain acceptance and AWC utility rewards.,https://github.com/wynnpay102-sys/wynnpay102-sys
+io.github.wyre-technology/alternative-payments-mcp,io.github.wyre-technology,"MCP server for Alternative Payments — customers, invoices, payment requests, payouts, webhooks.",https://github.com/wyre-technology/alternative-payments-mcp
+io.github.xona-labs/xpay,io.github.xona-labs,"Xona Wallet: agent wallet for AI agents. x402 payments, AgenC hires, 20k+ services",https://github.com/xona-labs/xpay
+io.github.xpaysh/academic-research,io.github.xpaysh,"30+ academic research tools. Semantic Scholar, arXiv, PubMed, bioRxiv, CrossRef, IACR.",https://github.com/xpaysh/mcp-server
+io.github.xpaysh/competitive-intel,io.github.xpaysh,"40+ competitive intel tools. Brand.dev, Coresignal, Keywords Everywhere, Exa, Firecrawl.",https://github.com/xpaysh/mcp-server
+io.github.xpaysh/content-research,io.github.xpaysh,"40+ content research tools. Perplexity, Tavily, Semantic Scholar, FLUX, Ideogram, Recraft.",https://github.com/xpaysh/mcp-server
+io.github.xpaysh/devtools,io.github.xpaysh,"30+ dev tools. Context7, Code Runner, Python Execute, Code Sentinel, NPM Sentinel, PlantUML.",https://github.com/xpaysh/mcp-server
+io.github.xpaysh/ecommerce-prompts-mcp,io.github.xpaysh,"Free copy-and-run ChatGPT prompts for online stores: 924 prompts, 43 categories + 10 tasks.",https://github.com/xpaysh/ecommerce-prompts-mcp
+io.github.xpaysh/finance,io.github.xpaysh,"253 finance tools. Financial Modeling Prep, Alpha Vantage, AkShare, Polymarket, Dome.",https://github.com/xpaysh/mcp-server
+io.github.xpaysh/lead-gen,io.github.xpaysh,"50+ lead gen tools. Apollo, Hunter, Nyne, Tomba, Sixtyfour, Fiber, Exa. Pay-per-use via x402.",https://github.com/xpaysh/mcp-server
+io.github.xpaysh/marketing,io.github.xpaysh,"50+ marketing tools. Lead gen, competitive intel, SEO, content research. Pay-per-use via x402.",https://github.com/xpaysh/mcp-server
+io.github.xpaysh/mcp-server,io.github.xpaysh,"980+ AI tools as MCP servers. Finance, lead gen, scraping, dev tools, media, research, and more.",https://github.com/xpaysh/mcp-server
+io.github.xpaysh/media,io.github.xpaysh,"25+ AI media tools. FLUX, Ideogram, Recraft, Stability AI, MiniMax video, Kokoro TTS.",https://github.com/xpaysh/mcp-server
+io.github.xpaysh/social-media,io.github.xpaysh,"96 social media scraping tools. Twitter/X, LinkedIn, Instagram, TikTok, Reddit, YouTube.",https://github.com/xpaysh/mcp-server
+io.github.xpaysh/web-scraping,io.github.xpaysh,"35+ web scraping tools. Firecrawl, Bright Data, Jina, Olostep, ScrapeGraph, Notte, Riveter.",https://github.com/xpaysh/mcp-server
+io.github.yyxqqq777/agentpay,io.github.yyxqqq777,x402 micropayments MCP: Xiaohongshu notes and paid APIs settled in USDC on Base.,https://github.com/yyxqqq777/mcp-server-agentpay
+io.github.zapnikita95/agentpay,io.github.zapnikita95,"RU merchant catalog for AI agents: live price, stock, choices and controlled checkout. Not x402.",https://github.com/zapnikita95/agentpay-mcp
+io.github.zekebuilds-lab/mcp-pay-gate,io.github.zekebuilds-lab,"Dual-rail Lightning paywall for MCP servers: accepts L402 and x402 bip122/exact, one LNBits backend.",https://github.com/zekebuilds-lab/mcp-pay-gate
+io.tooloracle/paymentoracle,io.tooloracle,PaymentOracle — ES256K-signed receipts for x402 payments on USDC+EURC (Base) and XRP+RLUSD (XRPL).,https://github.com/ToolOracle/paymentoracle
+io.usefulapi/paymo,io.usefulapi,"Browse Paymo projects, tasks, timesheets and invoices, and create tasks, log time or run timers.",https://github.com/m190/usefulapi-mcp
+market.payapi/marketplace,market.payapi,Search settlement-verified x402 APIs. Discovery is free. Agents pay the provider in USDC on Base.,
+me.stabledrop/escrow-payments,me.stabledrop,"Stablecoin escrow payments the buyer can dispute, with a signed receipt. Pay a wallet or an email.",https://github.com/conduit-ucpi/ap2service
+net.payflowagent/mcp,net.payflowagent,Free & pay-per-call (x402/USDC) risk & momentum scores for nad.fun tokens on Monad.,
+network.payai/facilitator,network.payai,Verify and settle x402 stablecoin payments; browse the PayAI Bazaar of x402-payable resources.,
+nz.co.finalpaycalculator/site,nz.co.finalpaycalculator,"Final Pay Calculator NZ: the site's own MCP server — calculator, enquiry (enquiry = a human...",
+nz.co.holidaypaycalculator/site,nz.co.holidaypaycalculator,"Holiday Pay Calculator NZ: the site's own MCP server — calculator, enquiry (enquiry = a human...",
+so.hilt/pay-me,so.hilt,"Wallet-approved SOL and Solana USDC payments to verified X handles, with zero custody.",
+tech.vauban/pay-mcp,tech.vauban,"x402 tools for MCP clients: pay exact/Starknet or STARK-receipt 402s, verify, JCS-hash. No account.",
+uk.co.contractorpaycalculator/site,uk.co.contractorpaycalculator,"Contractor Pay Calculator: the site's own MCP server — calculator, enquiry (enquiry = a human...",
+uk.co.latepaymentinterest/site,uk.co.latepaymentinterest,"Late Payment Interest: the site's own MCP server — calculator, enquiry (enquiry = a human...",
+uk.co.payrolldates/site,uk.co.payrolldates,"Payroll Dates: the site's own MCP server — calculator, enquiry (enquiry = a human handoff, not a...",
+uk.co.payrollsoftwarecompare/site,uk.co.payrollsoftwarecompare,"Payroll Software Compare: the site's own MCP server — compare, enquiry (enquiry = a human...",
+vn.monapay/monapay-mcp,vn.monapay,"MONA Pay for AI agents: create VietQR, check bank transfers, webhooks & HMAC. Vietnam bank API, VND",https://github.com/mona-software/monapay-mcp
+xyz.draket/btcpay-mcp,xyz.draket,"21 tools for AI agents to manage BTCPay Server: invoices, payments, stores, webhooks, Lightning",https://github.com/ThomsenDrake/btcpay-mcp
+xyz.obolpay/jp-verify,xyz.obolpay,"Verify Japanese companies: invoice T-numbers, Corporate Numbers, English names, shareholders",https://github.com/Hiroshi-Ichiyanagi/jp-verify-mcp
